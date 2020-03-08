@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/css/main.9dd74186.chunk.css",
+    "main.js": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/main.a12c9ecb.chunk.js",
+    "main.js.map": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/main.a12c9ecb.chunk.js.map",
+    "runtime-main.js": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/runtime-main.2a1e6db5.js",
+    "runtime-main.js.map": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/runtime-main.2a1e6db5.js.map",
+    "static/js/2.0775f6ae.chunk.js": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/2.0775f6ae.chunk.js",
+    "static/js/2.0775f6ae.chunk.js.map": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/2.0775f6ae.chunk.js.map",
+    "index.html": "https://orbs-network.github.io/trackntrace-website-synthetic-data/index.html",
+    "precache-manifest.16e47d83081054102ea7ba7a4265394c.js": "https://orbs-network.github.io/trackntrace-website-synthetic-data/precache-manifest.16e47d83081054102ea7ba7a4265394c.js",
+    "service-worker.js": "https://orbs-network.github.io/trackntrace-website-synthetic-data/service-worker.js",
+    "static/css/main.9dd74186.chunk.css.map": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/css/main.9dd74186.chunk.css.map",
+    "static/js/2.0775f6ae.chunk.js.LICENSE.txt": "https://orbs-network.github.io/trackntrace-website-synthetic-data/static/js/2.0775f6ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a1e6db5.js",
+    "static/js/2.0775f6ae.chunk.js",
+    "static/css/main.9dd74186.chunk.css",
+    "static/js/main.a12c9ecb.chunk.js"
+  ]
+}
