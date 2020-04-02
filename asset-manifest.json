@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://orbs-network.github.io/trackntrace-website-vc-data/static/css/main.9dd74186.chunk.css",
-    "main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.48633509.chunk.js",
-    "main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.48633509.chunk.js.map",
+    "main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.36c09494.chunk.js",
+    "main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.36c09494.chunk.js.map",
     "runtime-main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/runtime-main.a68555d7.js",
     "runtime-main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/runtime-main.a68555d7.js.map",
     "static/js/2.4ddbcf93.chunk.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.4ddbcf93.chunk.js",
     "static/js/2.4ddbcf93.chunk.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.4ddbcf93.chunk.js.map",
     "index.html": "https://orbs-network.github.io/trackntrace-website-vc-data/index.html",
-    "precache-manifest.61f94d713cd8afcb53e6a96a1f1eb996.js": "https://orbs-network.github.io/trackntrace-website-vc-data/precache-manifest.61f94d713cd8afcb53e6a96a1f1eb996.js",
+    "precache-manifest.0bd7eaea1795588cd31087bdb2560cc7.js": "https://orbs-network.github.io/trackntrace-website-vc-data/precache-manifest.0bd7eaea1795588cd31087bdb2560cc7.js",
     "service-worker.js": "https://orbs-network.github.io/trackntrace-website-vc-data/service-worker.js",
     "static/css/main.9dd74186.chunk.css.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/css/main.9dd74186.chunk.css.map",
     "static/js/2.4ddbcf93.chunk.js.LICENSE.txt": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.4ddbcf93.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a68555d7.js",
     "static/js/2.4ddbcf93.chunk.js",
     "static/css/main.9dd74186.chunk.css",
-    "static/js/main.48633509.chunk.js"
+    "static/js/main.36c09494.chunk.js"
   ]
 }
