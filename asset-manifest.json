@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://orbs-network.github.io/trackntrace-website-vc-data/static/css/main.9dd74186.chunk.css",
-    "main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.8de352a8.chunk.js",
-    "main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.8de352a8.chunk.js.map",
+    "main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.e34ce67b.chunk.js",
+    "main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/main.e34ce67b.chunk.js.map",
     "runtime-main.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/runtime-main.a68555d7.js",
     "runtime-main.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/runtime-main.a68555d7.js.map",
-    "static/js/2.5d671fa8.chunk.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.5d671fa8.chunk.js",
-    "static/js/2.5d671fa8.chunk.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.5d671fa8.chunk.js.map",
+    "static/js/2.630e8de2.chunk.js": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.630e8de2.chunk.js",
+    "static/js/2.630e8de2.chunk.js.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.630e8de2.chunk.js.map",
     "index.html": "https://orbs-network.github.io/trackntrace-website-vc-data/index.html",
-    "precache-manifest.e8699edc0e42014d9c5f3de7b8ac33ca.js": "https://orbs-network.github.io/trackntrace-website-vc-data/precache-manifest.e8699edc0e42014d9c5f3de7b8ac33ca.js",
+    "precache-manifest.769a40f7d579db64cfca61e4032649f6.js": "https://orbs-network.github.io/trackntrace-website-vc-data/precache-manifest.769a40f7d579db64cfca61e4032649f6.js",
     "service-worker.js": "https://orbs-network.github.io/trackntrace-website-vc-data/service-worker.js",
     "static/css/main.9dd74186.chunk.css.map": "https://orbs-network.github.io/trackntrace-website-vc-data/static/css/main.9dd74186.chunk.css.map",
-    "static/js/2.5d671fa8.chunk.js.LICENSE.txt": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.5d671fa8.chunk.js.LICENSE.txt"
+    "static/js/2.630e8de2.chunk.js.LICENSE.txt": "https://orbs-network.github.io/trackntrace-website-vc-data/static/js/2.630e8de2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a68555d7.js",
-    "static/js/2.5d671fa8.chunk.js",
+    "static/js/2.630e8de2.chunk.js",
     "static/css/main.9dd74186.chunk.css",
-    "static/js/main.8de352a8.chunk.js"
+    "static/js/main.e34ce67b.chunk.js"
   ]
 }
